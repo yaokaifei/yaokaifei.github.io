@@ -9,9 +9,10 @@ description:
 ## 尝试 ##
 
 ### 视频
+<a href="http://v.youku.com/v_show/id_XMTI2MzExNjg2NA==_ev_2.html">Visit W3School</a>
+<p>
 http://v.youku.com/v_show/id_XMTI2MzExNjg2NA==_ev_2.html
-http://v.youku.com/v_show/id_{video_id}.html
-
+</p>
 ### 公式
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}. $$
 
@@ -47,3 +48,10 @@ $(document).ready(function () {
     alert('hello world');
 });
 ```
+
+<pre> 元素同样可以形成代码块
+$(document).ready(function () {
+    alert('hello world');
+});</pre>
+粗斜体
+<b> Markdown 在此处同样适用，如 *加粗* </b>
