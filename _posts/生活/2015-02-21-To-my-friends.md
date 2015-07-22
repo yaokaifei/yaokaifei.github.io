@@ -10,6 +10,8 @@ description:
 我不是个热闹的人，也不冷寂。不太习惯复杂的场面，渐渐少了矫情的漂亮话。须臾凝视时空和生活，让我产生永恒的珍惜。我很高兴能来到这里，经历这一切，认识许多朋友。也庆幸没能和所有的人都成为朋友。我尝试过许多新鲜的东西，并学会了割舍与放弃。我不再厌恶坏情绪，真实地对待每一天，没有空洞的拥抱，和虚假的眼泪。我有很多难忘的瞬间，仍然记得许多对话，常常会想起那些看过的美丽风光。我愿意用自己的眼睛去看世界，我愿意付出爱如同收获它。我开始相信，也愿你们相信：即将发生的永远是最美好的！
     OK, 写完！
 
+<embed src="http://www.xiami.com/widget/0_182692/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+
 	
 下面的话出自一部我很喜欢的电影《返老还童》，我会经常看看这些文字，希望和你们共勉。 :)
 
@@ -45,5 +47,5 @@ description:
 
 >####If you find that you are not, I hope you have the strength to start all over again.
  
-
+![1](/public/img/days/2.jpg)
 
