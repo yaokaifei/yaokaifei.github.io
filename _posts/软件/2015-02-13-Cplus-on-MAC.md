@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mac以及Windows上搭建C++工作环境
-category: 技术
+category: 软件
 tags: Mac
 keywords: 
 description: 

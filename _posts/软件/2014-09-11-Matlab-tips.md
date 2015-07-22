@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Matlab科研小贴士
-category: 科研
+category: 软件
 tags: Matlab
 keywords: 矩阵补全，Matlab
 description: 

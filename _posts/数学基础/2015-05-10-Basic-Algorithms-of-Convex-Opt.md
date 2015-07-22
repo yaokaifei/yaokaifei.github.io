@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 凸优化的一些基础算法
-category: 科研
+category: 数学基础
 tags: Optimization
 keywords: 凸优化，基本算法
 description: 

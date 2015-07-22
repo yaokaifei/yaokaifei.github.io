@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 什么是 P, NP, NP-complete, NP-hard
-category: 科研
+category: 数学基础
 tags: Math
 keywords: 概念，NPhard
 description: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown输入LaTeX数学公式
-category: 技术
+category: 软件
 tags: LaTeX
 keywords: 
 description: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git常用命令速查表
-category: 技术
+category: 软件
 tags: Git
 keywords: 
 description: 
