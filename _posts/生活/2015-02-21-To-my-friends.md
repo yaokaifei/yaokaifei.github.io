@@ -47,5 +47,5 @@ description:
 
 >####If you find that you are not, I hope you have the strength to start all over again.
  
-![1](/public/img/days/2.jpg)
+![1](/public/img/days/2.jpeg)
 
