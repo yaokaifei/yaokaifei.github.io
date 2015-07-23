@@ -24,7 +24,8 @@ description:
 3.L2范数：向量中各元素的平方和  
 4.核范数：矩阵奇异值的和  
 5.迹范数  
-6.Frobenius  
+6.Frobenius    
+  
 ![2](/public/img/posts/机器学习/浅谈稀疏学习/2.png)
 
 ###效果
@@ -37,4 +38,4 @@ description:
 ###实际应用
 >弹性网回归学习算法：实际应用将L1与L2结合
 
-![1](/public/img/posts/机器学习/浅谈稀疏学习/1.png)
+![1](/public/img/posts/机器学习/浅谈稀疏学习/1.PNG)
